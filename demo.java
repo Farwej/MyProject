@@ -4,6 +4,6 @@ class demo
     {
       int a =15;
       string name="mahesh";
-      System.out.println("name");
+      System.out.println("mahesh");
     }
   }
